@@ -5,7 +5,7 @@ function login(){
     password = document.getElementById("password").value;
      
     if( user == "bit" && password == "2023"){
-        window.location="../exercises/index.html";
+        window.location="./exercises/index.html";
     } else{
         alert("Datos incorrectos")
     }
