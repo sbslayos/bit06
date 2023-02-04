@@ -8,5 +8,3 @@ form.addEventListener('submit', (event) => {
     title.innerHTML = `Hola!! ${form.name.value}`;
     
 });
-
-
